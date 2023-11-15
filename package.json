@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "snapfast-nextjs",
-=======
   "name": "snapfast-next",
->>>>>>> 130c3dd (Initial commit from Create Next App)
   "version": "0.1.0",
   "private": true,
   "scripts": {
