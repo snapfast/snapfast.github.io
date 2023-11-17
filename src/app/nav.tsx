@@ -21,7 +21,7 @@ export default function Nav() {
         <h2>
           Resume <span>-&gt;</span>
         </h2>
-        <p>Learn about Rahul's work in an non-interactive UI!</p>
+        <p>Learn about Rahul&apos;s work in an non-interactive UI!</p>
       </Link>
 
       <Link

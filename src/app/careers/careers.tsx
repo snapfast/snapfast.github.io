@@ -1,7 +1,3 @@
-// src/components/CompanyList.js
-import Image from 'next/image'
-import styles from './../page.module.css'
-import Link from 'next/link'
 import data from './../../../public/careers.json';
 
 const CompanyList = () => {
