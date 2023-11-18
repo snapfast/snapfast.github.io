@@ -35,16 +35,16 @@ export default function Nav() {
       </Link>
 
       <a
-        href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+        href="https://x.com/_rahulbali"
         className={styles.card}
         target="_blank"
         rel="noopener noreferrer"
       >
         <h2>
-          Deploy <span>-&gt;</span>
+          Contact <span>-&gt;</span>
         </h2>
         <p>
-          Instantly deploy your Next.js site.
+          on X.com
         </p>
       </a>
     </div>
