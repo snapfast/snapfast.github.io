@@ -5,7 +5,7 @@ const CompanyList = () => {
         <ul>
             {data.companies.map((company, index) => (
                 <li key={index}>
-                    <strong>{company.name}</strong> - {company.jobType}
+                    <strong>{company.name}</strong> - {company.jobType}{'&nbsp;'}
                     <a href={company.link} target="_blank" rel="noopener noreferrer">
                         {company.link}
                     </a>

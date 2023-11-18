@@ -9,11 +9,11 @@ export default function Careers() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
+          Careers&nbsp;- Company List&nbsp;
+          <code className={styles.code}></code>
         </p>
         <div>
-          <h1>Careers&nbsp;- Company List</h1>
+          <h1>Hey! bro</h1>
           <code className={styles.code}></code>
         </div>
         <CompanyList />
