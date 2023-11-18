@@ -8,11 +8,14 @@ export default function Careers() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        <p>
+          Get started by editing&nbsp;
+          <code className={styles.code}>src/app/page.tsx</code>
+        </p>
         <div>
           <h1>Careers&nbsp;- Company List</h1>
           <code className={styles.code}></code>
         </div>
-
         <CompanyList />
 
         To modify this list:  <a href='https://github.com/snapfast/snapfast.github.io/tree/main/public/careers.json' target='_blank' >Click here</a>
