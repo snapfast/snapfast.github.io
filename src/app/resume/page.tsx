@@ -19,18 +19,19 @@ export default function Resume() {
 
         <a href="/cv_rahul_bali.pdf" download>Download the resume.</a>
 
-        <span style={{ fontFamily: "'CMU Serif', cmr10, LMRoman10-Regular, 'Latin Modern Math', 'Nimbus Roman No9 L', 'Times New Roman', Times, serif" }}>
-          L<span style={{ textTransform: 'uppercase', fontSize: '0.75em', verticalAlign: '0.25em', marginLeft: '-0.36em', marginRight: '-0.15em', lineHeight: '1ex' }}>a</span>
-          T<span style={{ textTransform: 'uppercase', verticalAlign: '-0.25em', marginLeft: '-0.1667em', marginRight: '-0.125em', lineHeight: '1ex' }}>e</span>
-          X
-        </span>
-
-        This resume is made using LateX.
-        <Link href="https://www.overleaf.com/read/rncpndbhtsny#057a7a" target='_blank'>
-          Click this to view the Project
-        </Link>
+        <p>This resume is made using&nbsp;
+          <span style={{ fontFamily: "'CMU Serif', cmr10, LMRoman10-Regular, 'Latin Modern Math', 'Nimbus Roman No9 L', 'Times New Roman', Times, serif" }}>
+            L<span style={{ textTransform: 'uppercase', fontSize: '0.75em', verticalAlign: '0.25em', marginLeft: '-0.36em', marginRight: '-0.15em', lineHeight: '1ex' }}>a</span>
+            T<span style={{ textTransform: 'uppercase', verticalAlign: '-0.25em', marginLeft: '-0.1667em', marginRight: '-0.125em', lineHeight: '1ex' }}>e</span>
+            X
+          </span>.</p>
 
         ***
+
+        <Link href="https://www.overleaf.com/read/rncpndbhtsny#057a7a" target='_blank'>
+          Source Code for Resume.
+        </Link>
+
 
       </div>
 
@@ -46,7 +47,7 @@ export default function Resume() {
       </div>
 
       <Nav />
-      
+
     </main>
   )
 }

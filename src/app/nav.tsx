@@ -11,7 +11,7 @@ export default function Nav() {
         <h2>
           Home <span>-&gt;</span>
         </h2>
-        <p>Find information about Rahul Bali</p>
+        <p>About Rahul Bali</p>
       </Link>
 
       <Link
@@ -21,7 +21,7 @@ export default function Nav() {
         <h2>
           Resume <span>-&gt;</span>
         </h2>
-        <p>Learn about Rahul&apos;s work in an non-interactive UI!</p>
+        <p>Learn about Rahul&apos;s work!</p>
       </Link>
 
       <Link
