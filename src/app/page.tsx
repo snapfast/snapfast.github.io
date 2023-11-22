@@ -7,7 +7,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Software Engineering&nbsp;
+          Rahul Bali&nbsp;
           <code className={styles.code}></code>
         </p>
         <div>
@@ -16,15 +16,26 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{' '}snapfast @ Github
+            @snapfast
           </a>
         </div>
 
-        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lectus ipsum, blandit id volutpat maximus, rhoncus ut neque. Nulla dictum ex nec lectus efficitur euismod. Morbi molestie ligula hendrerit nunc pulvinar, non tincidunt augue pulvinar. Duis at lectus non diam viverra congue sit amet sed mi. Nunc tempus magna quis libero pulvinar, nec tempus nulla fermentum. In dictum nisi id porta fringilla. Nulla metus justo, rhoncus sit amet volutpat a, vestibulum a nisl. Quisque sit amet sapien malesuada, egestas sapien ac, pellentesque ipsum. Aenean tempor quam a leo pharetra, in consectetur nisl pulvinar. Ut ac elit dui. Donec quis pretium dolor. Fusce eu sollicitudin ipsum. Donec pulvinar placerat ipsum, sit amet facilisis turpis. Quisque at commodo turpis.
-
+        <p>
+          Hello, my name is Rahul Bali, and I'm a software engineer. Outside of programming, I love to travel and explore new places. I'm always looking for the next exciting destination. Music is another one of my passions, and I enjoy discovering new genres and artists. I believe that life is a beautiful journey, full of surprises and learning opportunities. Every day, I strive to grow both personally and professionally. I'm looking forward to the adventures that await!
         </p>
         <p>
-          Aenean feugiat non sem sed dapibus. Vestibulum ut porttitor augue. Curabitur non diam eget ligula semper aliquam. Sed volutpat, felis ac maximus finibus, lectus enim ornare nisl, vel gravida lorem dolor ut arcu. Sed fermentum condimentum diam et hendrerit. Ut vitae leo ex. Etiam ac vehicula ante, in commodo tortor. Vestibulum congue fermentum blandit. Curabitur suscipit quam suscipit, interdum tellus id, euismod urna. Cras at tempus nisl. Vestibulum commodo, augue at vulputate lobortis, turpis diam facilisis est, nec suscipit purus mauris vitae mauris. Ut magna lorem, ornare eget purus lacinia, consequat aliquet felis. Proin nec aliquet sem, in scelerisque dui. Aliquam lobortis commodo libero, rhoncus maximus elit gravida in. </p>
+          <br />
+          <em>"In the end, it's not the years in your life that count. It's the life in your years." - Abraham Lincoln</em>
+          <br />
+          <br />
+          <em>"Life is what happens when you're busy making other plans." - John Lennon</em>
+          <br />
+          <br />
+        </p>
+        <p>
+          Let's discuss life, music, tech, and everything in between.<br></br>
+          Connect with me on Twitter <a href="https://twitter.com/_rahulbali" target="_blank" rel="noopener noreferrer" style={{ color: '#1DA1F2' }}>@_rahulbali</a>
+        </p>
 
 
       </div>
