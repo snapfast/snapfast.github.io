@@ -47,7 +47,7 @@ export default function Home() {
         </p>
         <p>
 
-          DM on <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" >LinkedIn</a> and <a href="https://instagram.com/" target="_blank" rel="noopener noreferrer" >Instagram</a>
+          DM on <a href="https://linkedin.com/in/rahulbali2" target="_blank" rel="noopener noreferrer" >LinkedIn</a> and <a href="https://instagram.com/bali.rahul" target="_blank" rel="noopener noreferrer" >Instagram</a>
         </p>
 
 
