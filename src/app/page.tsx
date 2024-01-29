@@ -5,6 +5,16 @@ import Nav from './nav'
 export default function Home() {
   return (
     <main className={styles.main}>
+      <div className={styles.center}>
+        <Image
+          className={styles.logo}
+          src="/rahul.svg"
+          alt="Next.js Logo"
+          width={180}
+          height={37}
+          priority
+        />
+      </div>
       <div className={styles.description}>
         <p>
           Rahul Bali&nbsp;
@@ -21,20 +31,22 @@ export default function Home() {
         </div>
 
         <p>
-          Hello, my name is Rahul Bali, and I'm a software engineer. Outside of programming, I love to travel and explore new places. I'm always looking for the next exciting destination. Music is another one of my passions, and I enjoy discovering new genres and artists. I believe that life is a beautiful journey, full of surprises and learning opportunities. Every day, I strive to grow both personally and professionally. I'm looking forward to the adventures that await!
+            Hello, my name is Rahul Bali, and I&apos;m a software engineer.
         </p>
         <p>
           <br />
-          <em>"In the end, it's not the years in your life that count. It's the life in your years." - Abraham Lincoln</em>
+          <em>I recently started reading more about various different topics like music theory, how religion says cosmos was born, indian way of knowledge (shastra). I am happy to hear about your stories and things that you are learning. Lets talk from our hearts !</em>
           <br />
           <br />
-          <em>"Life is what happens when you're busy making other plans." - John Lennon</em>
+          <em>This is the link to my Google calendar, please go ahead and setup a meet with video call.</em>
+          <br />
+          <em><a href="https://calendar.google.com/calendar/u/0?cid=cmFodWxyZGIxOEBnbWFpbC5jb20" target="_blank" >https://calendar.google.com/calendar/u/0?cid=cmFodWxyZGIxOEBnbWFpbC5jb20</a></em>
           <br />
           <br />
         </p>
         <p>
-          Let's discuss life, music, tech, and everything in between.<br></br>
-          Connect with me on Twitter <a href="https://twitter.com/_rahulbali" target="_blank" rel="noopener noreferrer" style={{ color: '#1DA1F2' }}>@_rahulbali</a>
+
+          Connect with me on Twitter <a href="https://twitter.com/_rahulbali" target="_blank" rel="noopener noreferrer" >@_rahulbali</a>
         </p>
 
 
@@ -43,10 +55,10 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/rahul.svg"
-          alt="Next.js Logo"
+          src="/bul33.svg"
+          alt="Bull"
           width={180}
-          height={37}
+          height={180}
           priority
         />
       </div>
