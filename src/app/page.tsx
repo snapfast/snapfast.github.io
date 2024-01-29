@@ -47,7 +47,7 @@ export default function Home() {
         </p>
         <p>
 
-          Connect with me on Twitter <a href="https://twitter.com/_rahulbali" target="_blank" rel="noopener noreferrer" >@_rahulbali</a>
+          Connect with me on  <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" >LinkedIn</a> and <a href="https://instagram.com/" target="_blank" rel="noopener noreferrer" >Instagram</a>
         </p>
 
 
