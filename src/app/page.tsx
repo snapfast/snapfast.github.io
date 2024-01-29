@@ -35,7 +35,8 @@ export default function Home() {
         </p>
         <p>
           <br />
-          <em>I recently started reading more about various different topics like music theory, how religion says cosmos was born, indian way of knowledge (shastra). I am happy to hear about your stories and things that you are learning. Lets talk from our hearts !</em>
+          <em>I recently started reading more about various different topics like music theory, how cosmos was born, Indian way of knowledge (shastra).</em>
+          <em>I am happy to hear about your stories and things that you are learning. Lets talk from our hearts !</em>
           <br />
           <br />
           <em>This is the link to my Google calendar, please go ahead and setup a meet with video call.</em>
