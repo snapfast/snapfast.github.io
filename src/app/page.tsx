@@ -18,7 +18,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Rahul Bali&nbsp;
-          <code className={styles.code}></code>
+          <code className={styles.code}>Hello, my name is Rahul Bali, and I&apos;m a software engineer.</code>
         </p>
         {/* p tag is used for the new section */}
         <p>
