@@ -20,15 +20,6 @@ export default function Home() {
           Rahul Bali&nbsp;
           <code className={styles.code}></code>
         </p>
-        <div>
-          <a
-            href="https://github.com/snapfast"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            @snapfast
-          </a>
-        </div>
         {/* p tag is used for the new section */}
         <p>
           Hello, my name is Rahul Bali, and I&apos;m a software engineer.
