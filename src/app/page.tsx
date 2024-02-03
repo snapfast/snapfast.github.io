@@ -17,13 +17,10 @@ export default function Home() {
       </div>
       <div className={styles.description}>
         <p>
-          Rahul Bali&nbsp;
+          Rahul Bali&nbsp;<br></br>
           <code className={styles.code}>Hello, my name is Rahul Bali, and I&apos;m a software engineer.</code>
         </p>
         {/* p tag is used for the new section */}
-        <p>
-          Hello, my name is Rahul Bali, and I&apos;m a software engineer.
-        </p>
         <p>
           <br />
           <em>I recently started reading more about various different topics like music theory, how cosmos was born, Indian way of knowledge (shastra).</em>
