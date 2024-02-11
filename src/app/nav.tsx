@@ -42,7 +42,7 @@ export default function Nav() {
           Writings <span>-&gt;</span>
         </h2>
         <p>
-          thoughts and studies I did for your benefit
+          thoughts, study and write
         </p>
       </Link>
     </div>
