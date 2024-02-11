@@ -31,7 +31,7 @@ export default function Nav() {
         <h2>
           Careers <span>-&gt;</span>
         </h2>
-        <p>Explore starter careers for Tech.</p>
+        <p>Career links for Tech Co.</p>
       </Link>
 
       <Link
