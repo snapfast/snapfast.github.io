@@ -16,8 +16,8 @@ export default function Resume() {
           Notes for Cloud and DevOps
         </Link>
 
-        <Link href="" target='_blank'>
-          blank
+        <Link href="https://snapfast.github.io/documents/" target='_blank'>
+          Documents
         </Link>
 
         <Link href="" target='_blank'>
