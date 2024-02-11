@@ -13,7 +13,7 @@ export default function Careers() {
           <code className={styles.code}></code>
         </p>
         <div>
-          <h1>Hey! bro</h1>
+          <h1>Hey!</h1>
           <code className={styles.code}></code>
         </div>
         <CompanyList />

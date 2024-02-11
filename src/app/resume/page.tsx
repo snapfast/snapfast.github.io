@@ -8,8 +8,8 @@ export default function Resume() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
+          Résumé
+          <code className={styles.code}></code>
         </p>
         <object data="/cv_rahul_bali.pdf" type="application/pdf" width="100%" height="800px">
           <p>

@@ -34,19 +34,17 @@ export default function Nav() {
         <p>Explore starter careers for Tech.</p>
       </Link>
 
-      <a
-        href="https://x.com/_rahulbali"
+      <Link
+        href="/writings"
         className={styles.card}
-        target="_blank"
-        rel="noopener noreferrer"
       >
         <h2>
-          Contact <span>-&gt;</span>
+          Writings <span>-&gt;</span>
         </h2>
         <p>
-          on X.com
+          thoughts and studies I did for your benefit
         </p>
-      </a>
+      </Link>
     </div>
   )
 }

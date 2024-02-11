@@ -36,9 +36,6 @@ export default function Home() {
           <br />
         </p>
         <br />
-        <p>
-          DM on <a href="https://linkedin.com/in/rahulbali2" target="_blank" rel="noopener noreferrer" >LinkedIn</a> and <a href="https://instagram.com/bali.rahul" target="_blank" rel="noopener noreferrer" >Instagram</a>
-        </p>
       </div>
 
       <div className={styles.center}>
@@ -51,6 +48,8 @@ export default function Home() {
           priority
         />
       </div>
+
+      <a href="https://linkedin.com/in/rahulbali2" target="_blank" >LinkedIn</a> <a href="https://instagram.com/bali.rahul" target="_blank" >Instagram</a>
 
       <Nav />
 
