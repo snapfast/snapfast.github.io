@@ -8,6 +8,10 @@ export default function Resume() {
     <main className={styles.main}>
       <div className={styles.description}>
 
+        <p>
+          Writings & Notes
+        </p>
+
         <Link href="https://snapfast.github.io/cloud_notes/" target='_blank'>
           Notes for Cloud and DevOps
         </Link>
