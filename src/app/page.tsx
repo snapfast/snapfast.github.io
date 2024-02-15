@@ -25,7 +25,6 @@ export default function Home() {
         </p>
         <p>
           <br />
-          <em>This is the link to my <a href="https://calendar.google.com/calendar/u/0?cid=cmFodWxyZGIxOEBnbWFpbC5jb20" target="_blank" >Google calendar</a>, please go ahead and setup a meet with video call.</em>
           <br />
         </p>
         <p>
