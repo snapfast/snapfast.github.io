@@ -12,16 +12,10 @@ export default function Resume() {
           Writings & Notes
         </p>
 
+        <br></br>
+
         <Link href="https://snapfast.github.io/cloud_notes/" target='_blank'>
           Notes for Cloud and DevOps
-        </Link>
-
-        <Link href="https://snapfast.github.io/documents/" target='_blank'>
-          Documents
-        </Link>
-
-        <Link href="" target='_blank'>
-          blank
         </Link>
 
       </div>
