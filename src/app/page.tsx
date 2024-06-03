@@ -34,7 +34,7 @@ export default function Home() {
           <br />
           <br />
         </p>
-        <Button variant="outlined" target="_blank" href="https://urban-palm.netlify.app/"
+        <Button variant="outlined" target="_blank" href="https://urban-palm.netlify.app/paygate"
         >Book a Session</Button>
         <p>
           <br />
