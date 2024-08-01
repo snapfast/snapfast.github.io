@@ -34,7 +34,7 @@ export default function Home() {
           <br />
           <br />
         </p>
-        <Button variant="outlined" target="_blank" href="https://urban-palm.netlify.app/paygate"
+        <Button variant="outlined" target="_blank" href="https://calendly.com/rahulbali2/30min"
         >Book a Session</Button>
         <p>
           <br />
