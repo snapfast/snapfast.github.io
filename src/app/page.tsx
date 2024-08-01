@@ -24,13 +24,12 @@ export default function Home() {
         </p>
         {/* p tag is used for the new section */}
         <h3>
-          <br />Hello, my name is Rahul Bali and I&apos;m a software engineer.
-          <br />
+          <br />knowledge blooms -- more love - breakthrough business -- tech wonder
         </h3>
         <p>
           <br />
-          Do you have a question that I can help with ?
           <br />
+          Do you have a question that I can help with ?
           <br />
           <br />
         </p>
