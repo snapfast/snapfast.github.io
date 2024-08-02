@@ -24,7 +24,7 @@ export default function Home() {
         </p>
         {/* p tag is used for the new section */}
         <h3>
-          <br />knowledge blooms -- more love -- breakthrough business -- tech wonder
+          knowledge blooms -- more love -- breakthrough business -- tech wonder
         </h3>
         <p>
           <br />
@@ -47,7 +47,7 @@ export default function Home() {
         />
       </div>
 
-      <div className={styles.description}>
+      <div className={styles.crisp}>
         <a href="https://linkedin.com/in/rahulbali2" aria-label="Linkedin" target="_blank" rel="noopener">
           <svg height="72" width="72" viewBox="0 0 85 85" xmlns="http://www.w3.org/2000/svg">
             <g fill="none" fill-rule="evenodd">
