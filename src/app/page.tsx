@@ -24,7 +24,7 @@ export default function Home() {
         </p>
         {/* p tag is used for the new section */}
         <h3>
-          <br />knowledge blooms -- more love - breakthrough business -- tech wonder
+          <br />knowledge blooms -- more love -- breakthrough business -- tech wonder
         </h3>
         <p>
           <br />
