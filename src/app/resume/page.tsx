@@ -11,13 +11,14 @@ export default function Resume() {
           Résumé
           <code className={styles.code}></code>
         </p>
-        <object data="/cv_rahul_bali.pdf" type="application/pdf" width="100%" height="800px">
+
+        <a href="/cv_rahul_bali_main.pdf" download>Download the resume.</a>
+
+        <object data="/cv_rahul_bali_main.pdf" type="application/pdf" width="100%" height="800px">
           <p>
             Your browser does not support PDF plugin.
           </p>
         </object>
-
-        <a href="/cv_rahul_bali.pdf" download>Download the resume.</a>
 
         <p>This resume is made using&nbsp;
           <span style={{ fontFamily: "'CMU Serif', cmr10, LMRoman10-Regular, 'Latin Modern Math', 'Nimbus Roman No9 L', 'Times New Roman', Times, serif" }}>
@@ -29,7 +30,11 @@ export default function Resume() {
         ***
 
         <Link href="https://www.overleaf.com/read/rncpndbhtsny#057a7a" target='_blank'>
-          Source Code for Resume.
+          Source Code for Full CV.
+        </Link>
+
+        <Link href="https://www.overleaf.com/read/pxwdcqvqmhdk#5c3b66" target='_blank'>
+          Source Code for Trimmed Resume.
         </Link>
 
 
