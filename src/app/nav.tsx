@@ -14,15 +14,6 @@ export default function Nav() {
         <p>About Rahul Bali</p>
       </Link>
 
-      <Link
-        href="/resume"
-        className={styles.card}
-      >
-        <h2>
-          Resume <span>-&gt;</span>
-        </h2>
-        <p>Learn about Rahul&apos;s work!</p>
-      </Link>
 
       <Link
         href="/careers"
@@ -34,6 +25,18 @@ export default function Nav() {
         <p>Career links for Tech Co.</p>
       </Link>
 
+
+      <Link
+        href="/resume"
+        className={styles.card}
+      >
+        <h2>
+          Resume <span>-&gt;</span>
+        </h2>
+        <p>Learn about Rahul&apos;s work!</p>
+      </Link>
+
+
       <Link
         href="/writings"
         className={styles.card}
@@ -42,7 +45,7 @@ export default function Nav() {
           Writings <span>-&gt;</span>
         </h2>
         <p>
-          thoughts, study and write
+        Insights, Perspectives, Explorations
         </p>
       </Link>
     </div>
