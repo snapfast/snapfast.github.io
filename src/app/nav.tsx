@@ -48,6 +48,19 @@ export default function Nav() {
         Insights, Perspectives, Explorations
         </p>
       </Link>
+
+
+      <Link
+        href="/contact"
+        className={styles.card}
+      >
+        <h2>
+          Contact <span>-&gt;</span>
+        </h2>
+        <p>
+        Personal note, and love.
+        </p>
+      </Link>
     </div>
   )
 }
