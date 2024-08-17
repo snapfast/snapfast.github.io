@@ -18,29 +18,6 @@ export default function Home() {
           priority
         />
       </div>
-      <div className={styles.description}>
-        <p>
-          <code className={styles.code}></code>
-        </p>
-        {/* p tag is used for the new section */}
-        <h3>
-          knowledge blooms -- more love -- breakthrough business -- tech wonder
-        </h3>
-        <p>
-          Rahul Bali is a Google Strategic Cloud Engineer with a strong background in full-stack development, data visualization, and cloud infrastructure.
-        </p>
-        <p>He excels in creating impactful platforms that drive efficiency and innovation. </p>
-        <p>With expertise across Google Cloud, project management, and sales enablement, Rahul delivers solutions that inspire and transform business operations.</p>
-
-        <p>
-          <br />
-          Do you have a question that I can help with ?
-          <br />
-        </p>
-        <Button variant="outlined" target="_blank" href="https://calendly.com/rahulbali2/30min"
-        >Book a Session</Button>
-        <br />
-      </div>
 
       <div className={styles.center}>
         <Image
@@ -52,6 +29,33 @@ export default function Home() {
           priority
         />
       </div>
+
+      <div className={styles.description}>
+        <p>
+          <code className={styles.code}></code>
+        </p>
+        {/* p tag is used for the new section */}
+        <h3>
+          knowledge blooms -- more love -- breakthrough business -- tech wonder
+        </h3>
+        <p>
+          Rahul Bali is a Google Strategic Cloud Engineer with a strong background
+        </p>
+        <p> in full-stack development, data visualization, and cloud infrastructure.</p>
+        <p>He excels in creating impactful platforms that drive efficiency and innovation. </p>
+        <p>With expertise across Google Cloud, project management, and sales enablement,</p>
+        <p> Rahul delivers solutions that inspire and transform business operations.</p>
+
+        <p>
+          <br />
+          Do you have a question that I can help with ?
+          <br />
+        </p>
+        <Button variant="outlined" target="_blank" href="https://calendly.com/rahulbali2/30min"
+        >Book a Session</Button>
+        <br />
+      </div>
+
 
       <div className={styles.crisp}>
         <a href="https://linkedin.com/in/rahulbali2" aria-label="Linkedin" target="_blank" rel="noopener">
