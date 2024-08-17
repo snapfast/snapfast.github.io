@@ -20,14 +20,14 @@ export default function Resume() {
           </p>
         </object>
 
-        <p>This resume is made using&nbsp;
+        <p>
+          <p>This resume is made using&nbsp;
           <span style={{ fontFamily: "'CMU Serif', cmr10, LMRoman10-Regular, 'Latin Modern Math', 'Nimbus Roman No9 L', 'Times New Roman', Times, serif" }}>
             L<span style={{ textTransform: 'uppercase', fontSize: '0.75em', verticalAlign: '0.25em', marginLeft: '-0.36em', marginRight: '-0.15em', lineHeight: '1ex' }}>a</span>
             T<span style={{ textTransform: 'uppercase', verticalAlign: '-0.25em', marginLeft: '-0.1667em', marginRight: '-0.125em', lineHeight: '1ex' }}>e</span>
             X
           </span>.</p>
-
-        ***
+        </p>
 
         <Link href="https://www.overleaf.com/read/rncpndbhtsny#057a7a" target='_blank'>
           Source Code for Full CV.

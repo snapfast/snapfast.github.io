@@ -45,7 +45,7 @@ export default function Nav() {
           Writings <span>-&gt;</span>
         </h2>
         <p>
-        Insights, Perspectives, Explorations
+          Insights, Perspectives, Explorations
         </p>
       </Link>
 
@@ -58,7 +58,7 @@ export default function Nav() {
           Contact <span>-&gt;</span>
         </h2>
         <p>
-        Personal note, and love.
+          Personal note, and love.
         </p>
       </Link>
     </div>
