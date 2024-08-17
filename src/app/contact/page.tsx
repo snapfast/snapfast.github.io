@@ -9,23 +9,19 @@ export default function Resume() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Contact
           <code className={styles.code}></code>
         </p>
 
-        ***
-
-        Hey there, if I have had a chance to help you any form or state, kindly share your token of appreciation below.
+        <h2>Contact</h2>
 
         <Image
           src="/upi.png"
           alt="token"
-          width={300}
+          width={400}
         />
+        <p>if I have had a chance to help you any form or state, kindly share your token of appreciation below.</p>
 
-
-
-      </div>=
+      </div>
 
       <Nav />
 
