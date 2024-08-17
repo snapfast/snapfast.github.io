@@ -27,10 +27,11 @@ export default function Home() {
           knowledge blooms -- more love -- breakthrough business -- tech wonder
         </h3>
         <p>
-          <p>Rahul Bali is a Google Strategic Cloud Engineer with a strong background in full-stack development, data visualization, and cloud infrastructure.</p>
-          <p>He excels in creating impactful platforms that drive efficiency and innovation. </p>
-          <p>With expertise across Google Cloud, project management, and sales enablement, Rahul delivers solutions that inspire and transform business operations.</p>
+          Rahul Bali is a Google Strategic Cloud Engineer with a strong background in full-stack development, data visualization, and cloud infrastructure.
         </p>
+        <p>He excels in creating impactful platforms that drive efficiency and innovation. </p>
+        <p>With expertise across Google Cloud, project management, and sales enablement, Rahul delivers solutions that inspire and transform business operations.</p>
+
         <p>
           <br />
           Do you have a question that I can help with ?
