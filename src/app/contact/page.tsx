@@ -19,7 +19,7 @@ export default function Resume() {
         <br />
 
         <p>Did I just save your day? Or at least a couple of hours?</p>
-        <p>If so, how about we celebrate with a virtual coffee? ☕️ I'll take mine with a dash of appreciation!</p>
+        <p>If so, how about we celebrate with a virtual coffee? ☕️ I&apos;ll take mine with a dash of appreciation!</p>
         
         <Image
           src="/upi.png"
