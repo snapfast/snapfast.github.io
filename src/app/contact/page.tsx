@@ -14,12 +14,18 @@ export default function Resume() {
 
         <h2>Contact</h2>
 
+        <br />
+        <br />
+        <br />
+
+        <p>Did I just save your day? Or at least a couple of hours?</p>
+        <p>If so, how about we celebrate with a virtual coffee? ☕️ I'll take mine with a dash of appreciation!</p>
+        
         <Image
           src="/upi.png"
           alt="token"
           width={400}
         />
-        <p>if I have had a chance to help you any form or state, kindly share your token of appreciation below.</p>
 
       </div>
 
