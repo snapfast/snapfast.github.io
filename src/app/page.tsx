@@ -19,7 +19,6 @@ export default function Home() {
         />
       </div>
 
-
       <h3>
         knowledge blooms -- more love     breakthrough business -- tech wonder
       </h3>
