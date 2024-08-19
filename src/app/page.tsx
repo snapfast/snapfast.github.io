@@ -21,7 +21,7 @@ export default function Home() {
 
 
       <h3>
-        knowledge blooms -- more love -- breakthrough business -- tech wonder
+        knowledge blooms -- more love     breakthrough business -- tech wonder
       </h3>
 
       <div className={styles.center}>
