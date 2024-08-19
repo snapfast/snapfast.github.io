@@ -19,6 +19,11 @@ export default function Home() {
         />
       </div>
 
+
+      <h3>
+        knowledge blooms -- more love -- breakthrough business -- tech wonder
+      </h3>
+
       <div className={styles.center}>
         <Image
           className={styles.logo}
@@ -35,9 +40,6 @@ export default function Home() {
           <code className={styles.code}></code>
         </p>
         {/* p tag is used for the new section */}
-        <h3>
-          knowledge blooms -- more love -- breakthrough business -- tech wonder
-        </h3>
         <p>
           Rahul Bali is a Google Strategic Cloud Engineer with a strong background
         </p>
