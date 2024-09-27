@@ -29,10 +29,10 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/bul33.svg"
-          alt="Bull"
-          width={180}
-          height={180}
+          src="/Ghostscript_Tiger.svg"
+          alt="Tiger"
+          width={300}
+          height={300}
           priority
         />
       </div>
