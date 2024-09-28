@@ -1,0 +1,10 @@
+# config.yml
+title: Rahul Bali's Portfolio Blog
+description: >- # this means to ignore newlines until "baseurl:"
+  A portfolio website showcasing my projects and skills. Sectioned blog posts and project pages.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://snapfast.github.io" # the base hostname & protocol for your site
+theme: minima
+
+# Build settings
+markdown: kramdown
