@@ -1,6 +1,6 @@
 # Rahul Bali's Portfolio
 
-Welcome to my portfolio website! I am Rahul Bali, a Google Strategic Cloud Engineer with a strong background in full-stack development, data visualization, and cloud infrastructure.
+Welcome to my portfolio website! I am Rahul Bali, an Engineer with a strong background in full-stack development, data visualization, and cloud infrastructure.
 
 ## About Me
 
@@ -14,7 +14,6 @@ I am actively looking for opportunities to contribute to open source projects. I
 
 You can reach me at:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [linkedin.com/in/rahulbali2](https://linkedin.com/in/rahulbali2)
 - GitHub: [github.com/snapfast](https://github.com/snapfast)
 
