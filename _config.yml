@@ -13,7 +13,7 @@ show_excerpts: true
 # headers
 header_pages:
   - about.md
-  - projects.md
+  - resume.md
   - blog.md
   - contact.md
   - resume.md
