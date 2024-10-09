@@ -9,3 +9,12 @@ theme: minima
 # Build settings
 markdown: kramdown
 show_excerpts: true
+
+# headers
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
+  - contact.md
+  - resume.md
+  - 404.md
