@@ -17,11 +17,8 @@ social_links:
 
 # headers
 header_pages:
-  - about.md
   - resume.md
-  - blog.md
   - careers.md
   - contact.md
-  - 404.md
 
 # footer
