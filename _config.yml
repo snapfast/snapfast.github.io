@@ -16,5 +16,5 @@ show_excerpts: true
 # headers
 header_pages:
   - resume.md
-  - careers.md
+  - writings.md
   - contact.md
