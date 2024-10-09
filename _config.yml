@@ -8,3 +8,4 @@ theme: minima
 
 # Build settings
 markdown: kramdown
+show_excerpts: true
