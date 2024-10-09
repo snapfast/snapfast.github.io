@@ -9,6 +9,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snapfast.github.io" # the base hostname & protocol for your site
 theme: minima
 
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
 show_excerpts: true
