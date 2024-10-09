@@ -1,19 +1,11 @@
 # config.yml
 title: Rahul Bali's Portfolio Blog
-author:
-  name: Rahul Bali
-  email: your-email@domain.com
+author: Rahul Bali
 description: >- # this means to ignore newlines until "baseurl:"
   A portfolio website showcasing my projects and skills. Sectioned blog posts and project pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snapfast.github.io" # the base hostname & protocol for your site
 theme: minima
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
@@ -44,7 +36,7 @@ minima:
 
   # Generate social links in footer.
   social_links:
-    - { platform: github,         user_url: "https://github.com/snapfast" }
+    - { platform: github, user_url: "https://github.com/snapfast" }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
