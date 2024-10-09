@@ -10,11 +10,18 @@ theme: minima
 markdown: kramdown
 show_excerpts: true
 
+# Social media links
+social_links:
+  - title: "GitHub"
+    url: "https://github.com/snapfast"
+
 # headers
 header_pages:
   - about.md
   - resume.md
   - blog.md
+  - careers.md
   - contact.md
-  - resume.md
   - 404.md
+
+# footer
