@@ -2,9 +2,9 @@
 title: Rahul Bali's Mahal
 author: Rahul Bali
 description: >- # this means to ignore newlines until "baseurl:"
-  A internet mahal showcasing my projects and other works. Sectioned blog posts and project pages.
+  An internet mahal showcasing my projects and other works. Sectioned blog posts and project pages.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://snapfast.github.io" # the base hostname & protocol for your site
+url: "https://www.rahulbali.in" # the base hostname & protocol for your site
 
 # Social media links
 twitter_username: _rahulbali
