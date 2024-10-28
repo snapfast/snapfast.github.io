@@ -19,7 +19,7 @@ title: Resume
   
   <!-- show the resume pdf here -->
 
-  <embed src="https://snapfast.github.io/cv_rahul_bali_main.pdf" width="600px" height="500px"
+  <embed src="https://snapfast.github.io/cv_rahul_bali_main.pdf" width="100%" height="500px"
   type="application/pdf" />
 
 </div>
