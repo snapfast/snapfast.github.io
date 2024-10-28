@@ -22,4 +22,8 @@ title: Resume
   <embed src="https://snapfast.github.io/cv_rahul_bali_main.pdf" width="600px" height="500px"
   type="application/pdf" />
 
+
+  <embed src="https://www.rahulbali.in/cv_rahul_bali_main.pdf" width="600px" height="500px"
+  type="application/pdf" />
+
 </div>
