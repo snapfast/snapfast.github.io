@@ -16,3 +16,6 @@ app to keep notes in simple form
 
 ## Rahul Bali Astrology
 online service that provide jyotish consultations
+
+## Rahul Bali - Linguist
+experiments about languages around the world linguist.rahulbali.in
