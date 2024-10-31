@@ -4,6 +4,7 @@ title: Contact
 ---
 
 # Contact Me
+
 find me on [LinkedIn](https://linkedin.com/in/rahulbali2){:target="_blank" rel="noopener"} and [Github](https://github.com/snapfast){:target="_blank" rel="noopener"}.
 
 # Side Projects

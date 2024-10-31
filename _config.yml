@@ -1,6 +1,6 @@
 # config.yml
-title: Rahul Bali's Mahal
-author: Rahul Bali
+title: Rahul Bali
+author: snapfast
 description: >- # this means to ignore newlines until "baseurl:"
   An internet mahal showcasing my projects and other works. Sectioned blog posts and project pages.
 baseurl: "" # the subpath of your site, e.g. /blog
