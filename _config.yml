@@ -4,7 +4,7 @@ author: snapfast
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Rahul Bali, a Google Engineer with a passion for full-stack development, data visualization, and cloud infrastructure. 
 
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rahulbali.in" # the base hostname & protocol for your site
 
 # Social media links
@@ -13,10 +13,12 @@ github_username:  snapfast
 
 # version 2.5.3
 theme: minima
+plugins:
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown
-# show_excerpts: true
+show_excerpts: true
 
 # headers
 header_pages:
