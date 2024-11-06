@@ -15,8 +15,5 @@ wallpaper app
 ## inm - in my notes
 app to keep notes in simple form
 
-## Rahul Bali Astrology
-online service that provide jyotish consultations
 
-## Rahul Bali - Linguist
-experiments about languages around the world [linguist.rahulbali.in](https://linguist.rahulbali.in){:target="_blank" rel="noopener"}
+> Need to talk? fill my calendar here - [calendly.com/rahulbali2/30min](https://calendly.com/rahulbali2/30min){:target="_blank" rel="noopener"}

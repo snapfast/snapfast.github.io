@@ -2,9 +2,8 @@
 title: Rahul Bali
 author: snapfast
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Rahul Bali, a Google Engineer with a passion for full-stack development. Need to talk? fill my calendar here - [calendly.com/rahulbali2/30min](https://calendly.com/rahulbali2/30min){:target="_blank" rel="noopener"}
+  I'm Rahul Bali, a Google Engineer with a passion for full-stack development, data visualization, and cloud infrastructure. 
 
- blog posts and project pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rahulbali.in" # the base hostname & protocol for your site
 
