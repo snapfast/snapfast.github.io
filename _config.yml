@@ -13,6 +13,8 @@ github_username:  snapfast
 
 # version 2.5.3
 theme: minima
+plugins:
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown
