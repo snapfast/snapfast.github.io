@@ -19,6 +19,7 @@ plugins:
 # Build settings
 markdown: kramdown
 show_excerpts: true
+excerpt_separator: "<!--more-->" #global excerpt separator for the blog posts
 
 # headers
 header_pages:
