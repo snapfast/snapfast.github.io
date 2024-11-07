@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Career Opportunities
+title: Career
 author: Rahul Bali
 description: "A comprehensive list of career opportunities at various companies."
 ---
+
+# Career Opportunities
 
 <ul>
   <li><a href="https://new.abb.com/indian-subcontinent/careers/">ABB - Electronics</a></li>
