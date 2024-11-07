@@ -34,6 +34,7 @@ description: "A comprehensive list of career opportunities at various companies.
   <li><a href="https://jobs.jobvite.com/careers/infoblox/">Infoblox - Computer Networking</a></li>
   <li><a href="https://jobs.lever.co/lalamove/">Lalamove - Unknown</a></li>
   <li><a href="https://jobs.jobvite.com/logitech/">Logitech - Peripherals</a></li>
+  <li><a href="https://careers.microsoft.com/">Microsoft - Software</a></li>
   <li><a href="https://jobs.lever.co/netomi/">Netomi - Unknown</a></li>
   <li><a href="https://jobs.lever.co/nordsec/">Nord Security - Security</a></li>
   <li><a href="https://careers-inc.nttdata.com/search/">NTT DATA Services - Unknown</a></li>
