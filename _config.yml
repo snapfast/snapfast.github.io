@@ -16,6 +16,10 @@ google_analytics: G-N6CPNY8CTG
 
 # version 2.5.3
 theme: minima
+
+# minima
+minima:
+  date_format: "%d %B, %Y"
 show_excerpts: true
 
 # Build settings
