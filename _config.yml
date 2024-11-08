@@ -2,17 +2,17 @@
 title: Rahul Bali
 author: snapfast
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Rahul Bali, a Google Engineer with a passion for full-stack development, data visualization, and cloud infrastructure. 
+  I'm Rahul Bali, a Google Engineer with a passion for full-stack development, data visualization, and cloud infrastructure.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rahulbali.in" # the base hostname & protocol for your site
 
 # Social media links
 twitter_username: _rahulbali
-github_username:  snapfast
+github_username: snapfast
 
 # version 2.5.3
-theme: jekyll/minima
+theme: minima
 
 plugins:
   - jekyll-feed
@@ -35,4 +35,3 @@ minima:
 
 # analytics
 google_analytics: G-N6CPNY8CTG
-
