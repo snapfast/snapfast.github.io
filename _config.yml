@@ -12,11 +12,11 @@ twitter_username: _rahulbali
 github_username:  snapfast
 
 # version 2.5.3
-# theme: minima
+theme: minima
 remote_theme: jekyll/minima
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown
