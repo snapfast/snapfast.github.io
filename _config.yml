@@ -12,11 +12,11 @@ twitter_username: _rahulbali
 github_username:  snapfast
 
 # version 2.5.3
-theme: minima
-remote_theme: jekyll/minima
+theme: jekyll/minima
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
@@ -29,6 +29,9 @@ header_pages:
   - writings.md
   - careers.md
   - contact.md
+
+minima:
+  skin: classic
 
 # analytics
 google_analytics: G-N6CPNY8CTG
