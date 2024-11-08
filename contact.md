@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-# Contact Me
+# Contact
 
 [LinkedIn](https://linkedin.com/in/rahulbali2){:target="_blank" rel="noopener"}  
 [Github](https://github.com/snapfast){:target="_blank" rel="noopener"}   
