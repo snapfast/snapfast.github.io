@@ -11,12 +11,15 @@ url: "https://www.rahulbali.in" # the base hostname & protocol for your site
 twitter_username: _rahulbali
 github_username: snapfast
 
+# analytics
+google_analytics: G-N6CPNY8CTG
+
 # version 2.5.3
-theme: minima@3
+theme: minima
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
-show_excerpts: true
 excerpt_separator: "--excerpt" #global excerpt separator for the blog posts
 
 # headers
@@ -25,9 +28,3 @@ header_pages:
   - writings.md
   - careers.md
   - contact.md
-
-minima:
-  skin: classic
-
-# analytics
-google_analytics: G-N6CPNY8CTG
