@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Career
+title: Careers
 author: Rahul Bali
 description: "A comprehensive list of career opportunities at various companies."
 ---
