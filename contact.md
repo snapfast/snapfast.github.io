@@ -7,7 +7,7 @@ title: Contact
 
 ---
 
-[Setup time to speak calmly](https://calendly.com/rahulbali2/progress){:target="_blank" rel="noopener"}
+[Setup time](https://calendly.com/rahulbali2/progress){:target="_blank" rel="noopener"}
 
 
 
