@@ -7,11 +7,7 @@ title: Contact
 
 ---
 
-[LinkedIn](https://linkedin.com/in/rahulbali2){:target="_blank" rel="noopener"}  
-[Github](https://github.com/snapfast){:target="_blank" rel="noopener"}   
-> Need to talk? fill my calendar here - [calendly.com/rahulbali2/30min](https://calendly.com/rahulbali2/30min){:target="_blank" rel="noopener"}
-
-
+[Setup time to speak calmly](https://calendly.com/rahulbali2/progress){:target="_blank" rel="noopener"}
 
 
 
