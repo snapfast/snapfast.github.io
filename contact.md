@@ -7,7 +7,7 @@ title: Contact
 
 ---
 
-[Setup time](https://calendly.com/rahulbali2/progress){:target="_blank" rel="noopener"}
+[Schedule a Meeting](https://calendly.com/rahulbali2/progress){:target="_blank" rel="noopener"}
 
 
 
