@@ -62,6 +62,3 @@ description: "A comprehensive list of career opportunities at various companies.
   <li><a href="https://jobs.jobvite.com/zscaler/">Zscaler - Security</a></li>
 </ul>
 
-
-[Google Referrals](https://forms.gle/6rd9nnUGcg8tSmtA7){:target="_blank" rel="noopener"}
-
