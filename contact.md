@@ -24,4 +24,5 @@ wallpaper app
 app to keep notes in simple form
 
 ## Linguist by Rahul Bali
-linguist.rahulbali.in
+[linguist.rahulbali.in](https://linguist.rahulbali.in){:target="_blank" rel="noopener"}  
+
