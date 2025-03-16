@@ -8,9 +8,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rahulbali.in" # the base hostname & protocol for your site
 
 # Social media links
+# github_username: snapfast
 twitter_username: _rahulbali
-github_username: snapfast
 linkedin_username: rahulbali2
+telegram_username: balirahul
 
 # analytics
 google_analytics: G-N6CPNY8CTG
