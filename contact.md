@@ -10,7 +10,9 @@ title: Contact
 [Schedule a Calendar Invite](https://calendly.com/rahulbali2/progress){:target="_blank" rel="noopener"}  
 [Telegram (balirahul)](https://t.me/balirahul){:target="_blank" rel="noopener"}  
     
+    <br />
     
+Anonymous - [messages](https://secret.viralsachxd.com/6fdfc483a)  
     
 
 # Side Projects
