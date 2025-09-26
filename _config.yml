@@ -24,6 +24,7 @@ plugins:
 
 # minima
 minima:
+  skin: auto
   date_format: "%d %B, %Y"
   show_excerpts: true
   social_links:
