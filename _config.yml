@@ -41,7 +41,5 @@ excerpt_separator: "--excerpt" #global excerpt separator for the blog posts
 # headers
 header_pages:
   - resume.md
-  - writings.md
-  - careers.md
   - referral.md
   - contact.md
