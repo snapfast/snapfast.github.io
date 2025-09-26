@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Referral
 author: Rahul Bali
 description: "Accept Referral from Rahul Bali in your Inbox."

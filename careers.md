@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Careers
 author: Rahul Bali
 description: "A comprehensive list of career opportunities at various companies."
