@@ -22,9 +22,9 @@ google_analytics: G-N6CPNY8CTG
 remote_theme: "jekyll/minima@1e8a445"
 
 # plugins -- jekyll-feed, jekyll-remote-theme for google analytics
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+# plugins:
+#   - jekyll-remote-theme
+#   - jekyll-feed
 
 # minima
 minima:
