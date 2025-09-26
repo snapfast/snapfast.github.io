@@ -23,8 +23,8 @@ remote_theme: jekyll/minima
 
 # plugins -- jekyll-feed, jekyll-remote-theme for google analytics
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
+  # - jekyll-feed
 
 # minima
 minima:
