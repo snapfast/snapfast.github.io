@@ -1,8 +1,11 @@
 # config.yml
 title: Rahul Bali
-author: snapfast
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Rahul Bali, an Engineer with a passion for full-stack development, data visualization, web3 and future of finance.
+
+author:
+  name: Rahul Bali
+  email: "john.smith@foobar.com"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rahulbali.in" # the base hostname & protocol for your site
@@ -25,6 +28,8 @@ remote_theme: "jekyll/minima@1e8a445"
 # plugins:
 #   - jekyll-remote-theme
 #   - jekyll-feed
+
+
 
 # minima
 minima:
