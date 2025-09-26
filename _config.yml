@@ -1,49 +1,38 @@
 # config.yml
 title: Rahul Bali
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Rahul Bali, an Engineer with a passion for full-stack development, data visualization, web3 and future of finance.
-
-
-hide_site_feed_link: true # hides subscribe link
-author:
-  name: Rahul Bali
-  email: "john.smith@foobar.com"
+  Personal website of Rahul Bali - Engineer, technologist, and explorer of consciousness. Features technical writings, career resources, and insights on wellness, meditation, and the intersection of technology and human potential.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rahulbali.in" # the base hostname & protocol for your site
 
-# Social media links
-# github_username: snapfast
-twitter_username: _rahulbali
-linkedin_username: rahulbali2
+# author
+author:
+  name: Rahul Bali
+  email: "john.smith@foobar.com"
 
 # analytics
 google_analytics: G-N6CPNY8CTG
-
-# version 2.5.3
-# theme: minima
 
 # Build settings
 remote_theme: "jekyll/minima@1e8a445"
 
 # plugins -- jekyll-feed, jekyll-remote-theme for google analytics
-# plugins:
-#   - jekyll-remote-theme
-#   - jekyll-feed
-
-
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
 
 # minima
 minima:
   date_format: "%d %B, %Y"
+  show_excerpts: true
   social_links:
     - title: at GitHub
       icon: github
       url: "https://github.com/snapfast"
     - title: X (formerly Twitter)
       icon: x-twitter
-      url: "https://x.com/_rahulbali"
-show_excerpts: true
+      url: "https://x.com/rrahulbali"
 
 # Build settings
 markdown: kramdown
