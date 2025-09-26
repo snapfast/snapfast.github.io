@@ -30,6 +30,13 @@ remote_theme: "jekyll/minima@1e8a445"
 minima:
   date_format: "%d %B, %Y"
   hide_site_feed_link: true # hides subscribe link
+  social_links:
+    - title: at GitHub
+      icon: github
+      url: "https://github.com/snapfast"
+    - title: X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/_rahulbali"
 show_excerpts: true
 
 # Build settings
