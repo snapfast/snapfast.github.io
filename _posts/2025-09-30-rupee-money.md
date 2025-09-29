@@ -35,6 +35,18 @@ What is being exchanged and with what entity in return for money ?
 
 So, this question is a question which will change all preconcieved notions of money in your mind. And we will get the answer to this question here in this article, there will be no part 2 for this.
 
+---
+
+> Government of India
+
+> Reserve Bank of India
+
+> World Bank
+
+> International Monetary Fund
+
+> US Treasury
+
 
 
 
