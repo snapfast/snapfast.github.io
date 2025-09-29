@@ -5,8 +5,6 @@ author: Rahul Bali
 description: "A comprehensive list of career opportunities at various companies."
 ---
 
-# Career Opportunities
-
 <ul>
   <li><a href="https://new.abb.com/indian-subcontinent/careers/">ABB - Electronics</a></li>
   <li><a href="https://www.accenture.com/in-en/careers/">Accenture - Consulting</a></li>

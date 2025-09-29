@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ways of Life"
+excerpt: "Living by practice"
 date: 2024-11-09
 ---
 

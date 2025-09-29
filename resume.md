@@ -11,7 +11,6 @@ title: Resume
 </style>
 
 <div class="resume">
-  <h1>Resume</h1>
 
   <p>Here's a download link to my <a
       href="https://snapfast.github.io/cv_rahul_bali_main.pdf"
