@@ -49,8 +49,5 @@ So, this question is a question which will change all preconcieved notions of mo
 
 
 
-
-
-
-
+!https://en.wikipedia.org/wiki/Gerontocracy
 
