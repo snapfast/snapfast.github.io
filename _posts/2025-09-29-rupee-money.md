@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rupee / Rupaya - Money as a Human Control"
+title:  "Rupee as a Human Control"
 excerpt: "This piece shines light on the current state of money in 2025. And how it controls human life."
 date: 2025-09-29
 ---
