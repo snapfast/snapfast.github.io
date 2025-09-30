@@ -122,4 +122,4 @@ Last 60 years, tremendous increase in animal food demand.
 6. Economically - One (Joint Accounts) - Wise man makes his wife / girlfriend take care.
 
 Trust on yourself, and trust on her.
-
+Source: https://www.youtube.com/watch?v=Hho7qL-subs
