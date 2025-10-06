@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Strength of Body"
-excerpt: "Being Married Or Single"
+excerpt: "examples of food change leads to behaivour change"
+tag: [food change]
 date: 2025-09-30
 ---
 
