@@ -2,7 +2,7 @@
 layout: post
 title:  "Strength of Body"
 excerpt: "examples of food change leads to behaivour change"
-tag: food
+tags: food change
 date: 2025-09-30
 ---
 
