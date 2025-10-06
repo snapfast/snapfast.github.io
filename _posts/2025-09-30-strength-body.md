@@ -2,7 +2,7 @@
 layout: post
 title:  "Strength of Body"
 excerpt: "examples of food change leads to behaivour change"
-tags: food change
+category: health
 date: 2025-09-30
 ---
 
