@@ -91,6 +91,8 @@ Active, Keep Busy, Good Memory, Expression is Clear, Smart and Swift, Creative, 
 ## Bad Male
 Aggressive, Anger, Violence, Destructive
 
+#### become good
+
 - great quality grains, beans, vegetables, etc
 - avoid extreme sugar, chocolate, etc
 - avoid too much animal food
