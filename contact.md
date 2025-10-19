@@ -17,8 +17,11 @@ wallpaper app
 ## inm - in my notes
 app to keep notes in simple form
 
+## Notes
+[Writings](writings.md)
+
 ## Career Pages
-[Link](careers.md)
+[Career](careers.md)
 
 ## Linguist by Rahul Bali
 [linguist.rahulbali.in](https://linguist.rahulbali.in){:target="_blank" rel="noopener"}  

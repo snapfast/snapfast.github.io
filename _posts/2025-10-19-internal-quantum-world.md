@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ways of Life"
-excerpt: "Internal Quantum World"
+title:  "Internal Quantum World"
+excerpt: "Manifesting the internal world, brings the material into your world"
 date: 2025-10-19
 ---
 
