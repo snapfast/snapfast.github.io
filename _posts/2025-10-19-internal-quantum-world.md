@@ -6,15 +6,13 @@ date: 2025-10-19
 ---
 
 
-World inside us is as large as the world that is perceived outside by our 5 senses.
+World inside us is as large as the world that is perceived outside by our five senses.
 
 This may sound like as if I am saying this by realising it or by practise. I only say this so it makes sense to the reader.
 In my experience, the inside world is much larger in shakti than what we percieve on the outside.
 
 The description of the internal world is not viable by the written or the spoken words. Yet a simultaneous experience can describe what is perceived on the inside. 
 A teacher can make the training in such a way that the shishya come to realization of the singular terms.
-
-
 
 
 
