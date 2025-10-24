@@ -35,6 +35,6 @@ Reject Comfort
 
 Reject Modernity
 
-### Practice Practice Practice
+> Practice Practice Practice
 
-### Sharir ko Ragdo - शरीर को रगड़
+> Sharir ko Ragdo - शरीर को रगड़
