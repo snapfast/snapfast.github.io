@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Command Your Body: The Only Path"
+title:  "Command Your Body"
 excerpt: "Your body should obey your decisions - discipline, practice, and rejection of comfort as tools for spiritual realization"
 date: 2025-10-24
 ---
