@@ -1,7 +1,6 @@
 # config.yml
 title: Rahul Bali
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Rahul Bali - Engineer, technologist, and explorer of consciousness. Features technical writings, career resources, and insights on wellness, meditation, and the intersection of technology and human potential.
+description: Personal website of Rahul Bali - Engineer, technologist, and explorer of consciousness.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rahulbali.in" # the base hostname & protocol for your site

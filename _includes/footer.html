@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #e8e8e8; padding: 20px 0; font-size: 15px; color: #828282;">
+      <span>{{ site.title | escape }} &bull; <a href="{{ "/feed.xml" | relative_url }}" target="_blank" rel="noopener">Subscribe</a></span>
+      <div style="display: flex; gap: 15px;">
+        {%- for link in site.minima.social_links -%}
+          <a href="{{ link.url | escape }}" target="_blank" rel="noopener" title="{{ link.title | escape }}" style="color: inherit;">
+            <i class="fab fa-{{ link.icon | escape }}"></i>
+          </a>
+        {%- endfor -%}
+      </div>
+    </div>
+  </div>
+</footer>
