@@ -5,10 +5,10 @@ title: Projects
 
 A collection of applications and tools I've built.
 
-## [Linguist by Rahul Bali](https://linguist.rahulbali.in){:target="_blank" rel="noopener"}
+## [Linguist by Rahul Bali](https://linguist.rahulbali.in){:target="_blank" rel="noopener noreferrer"}
 An application for language enthusiasts.
 
-## [Astrology by Rahul Bali](https://astrology.rahulbali.in){:target="_blank" rel="noopener"}
+## [Astrology by Rahul Bali](https://astrology.rahulbali.in){:target="_blank" rel="noopener noreferrer"}
 Insights into the celestial patterns.
 
 ## Ovale
