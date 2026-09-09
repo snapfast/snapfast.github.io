@@ -8,6 +8,7 @@ description: "A comprehensive list of career opportunities at various companies.
 <ul>
   <li><a href="https://new.abb.com/indian-subcontinent/careers/">ABB - Electronics</a></li>
   <li><a href="https://www.accenture.com/in-en/careers/">Accenture - Consulting</a></li>
+  <li><a href="https://job-boards.greenhouse.io/agoda">Agoda - Travel</a></li>
   <li><a href="https://careers.americanexpress.com/">American Express - Fintech</a></li>
   <li><a href="https://www.atlassian.com/company/careers/all-jobs/">Atlassian - Software</a></li>
   <li><a href="https://jobs.lever.co/binance/">Binance - Fintech</a></li>
