@@ -31,6 +31,7 @@ remote_theme: "jekyll/minima@1e8a445"
 
 # plugins
 plugins:
+  - jekyll-sitemap
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
