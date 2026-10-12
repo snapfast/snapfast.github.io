@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Background Card (Dark Purple) -->
+  <rect width="512" height="512" rx="120" fill="#1a0b2e"/>
+
+  <!-- Outer Ring Accent (White) -->
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.3"/>
+
+  <!-- Monogram RB Text (White) -->
+  <g transform="translate(256, 256)" text-anchor="middle" dominant-baseline="central">
+    <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          font-weight="900"
+          font-size="240"
+          letter-spacing="-10"
+          fill="#ffffff">RB</text>
+  </g>
+</svg>
