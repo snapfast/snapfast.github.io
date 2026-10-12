@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Writings
+image: /assets/images/og-writings.png
 ---
 
 # Writings

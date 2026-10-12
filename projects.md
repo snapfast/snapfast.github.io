@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+image: /assets/images/og-projects.png
 ---
 
 A collection of applications, tools, and experiments I've built.
