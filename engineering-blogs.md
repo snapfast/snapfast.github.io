@@ -2,6 +2,7 @@
 layout: page
 title: Engineering Blogs & Videos
 description: "A curated list of popular engineering blogs, technical channels, and system design resources."
+image: /assets/images/og-engineering-blogs.png
 ---
 
 <ul>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+image: /assets/images/og-resume.png
 ---
 
 <style>

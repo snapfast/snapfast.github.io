@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+image: /assets/images/og-contact.png
 ---
 
 [Telegram](https://t.me/balirahul){:target="_blank" rel="noopener noreferrer"}
