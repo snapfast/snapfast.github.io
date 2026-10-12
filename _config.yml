@@ -8,11 +8,11 @@ url: "https://www.rahulbali.in" # the base hostname & protocol for your site
 # author
 author:
   name: Rahul Bali
-  twitter: JusticeGod9
+  twitter: SkyDyaus
 
 # Twitter metadata for SEO / social cards
 twitter:
-  username: JusticeGod9
+  username: SkyDyaus
 
 # Default social preview card image (1200x630) & logo
 image:
@@ -46,7 +46,7 @@ minima:
       url: "https://github.com/snapfast"
     - title: X (formerly Twitter)
       icon: x-twitter
-      url: "https://x.com/JusticeGod9"
+      url: "https://x.com/SkyDyaus"
 
 # Build settings
 markdown: kramdown

@@ -10,4 +10,4 @@ image: /assets/images/og-contact.png
 
 [GitHub](https://github.com/snapfast){:target="_blank" rel="noopener noreferrer"}
 
-[X](https://x.com/rrahulbali){:target="_blank" rel="noopener noreferrer"}
+[X](https://x.com/SkyDyaus){:target="_blank" rel="noopener noreferrer"}
