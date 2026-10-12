@@ -1,0 +1,26 @@
+<!-- Favicons -->
+<link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+<link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+
+<!-- Open Graph & Social Card Enhanced Metadata -->
+{% assign og_img = page.image.path | default: page.image | default: site.image.path | default: site.image %}
+{% if og_img %}
+  {% unless og_img contains "://" %}
+    {% assign og_img_url = og_img | absolute_url %}
+  {% else %}
+    {% assign og_img_url = og_img %}
+  {% endunless %}
+  <meta property="og:image" content="{{ og_img_url }}" />
+  <meta property="og:image:secure_url" content="{{ og_img_url }}" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:alt" content="{{ page.title | default: site.title }} - {{ page.description | default: site.description }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="{{ og_img_url }}" />
+{% endif %}
+<meta name="twitter:site" content="@JusticeGod9" />
+<meta name="twitter:creator" content="@JusticeGod9" />

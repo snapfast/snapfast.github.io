@@ -8,6 +8,20 @@ url: "https://www.rahulbali.in" # the base hostname & protocol for your site
 # author
 author:
   name: Rahul Bali
+  twitter: JusticeGod9
+
+# Twitter metadata for SEO / social cards
+twitter:
+  username: JusticeGod9
+
+# Default social preview card image (1200x630) & logo
+image:
+  path: /assets/images/og-image.png
+  height: 630
+  width: 1200
+  alt: "Rahul Bali - Engineer, technologist, and explorer of consciousness"
+
+logo: /assets/images/apple-touch-icon.png
 
 # analytics
 google_analytics: G-N6CPNY8CTG
@@ -15,10 +29,11 @@ google_analytics: G-N6CPNY8CTG
 # Build settings
 remote_theme: "jekyll/minima@1e8a445"
 
-# plugins -- jekyll-feed, jekyll-remote-theme for google analytics
+# plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
 
 # minima
 minima:
@@ -31,7 +46,7 @@ minima:
       url: "https://github.com/snapfast"
     - title: X (formerly Twitter)
       icon: x-twitter
-      url: "https://x.com/rrahulbali"
+      url: "https://x.com/JusticeGod9"
 
 # Build settings
 markdown: kramdown
