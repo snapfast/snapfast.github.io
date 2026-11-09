@@ -6,6 +6,30 @@ description: "A comprehensive list of career opportunities at various companies.
 image: /assets/images/og-careers.png
 ---
 
+<h2>Well-Funded Startups</h2>
+<ul>
+  <li><a href="https://www.anthropic.com/careers">Anthropic - AI</a></li>
+  <li><a href="https://mistral.ai/careers/">Mistral AI - AI</a></li>
+  <li><a href="https://scale.com/careers">Scale AI - AI</a></li>
+</ul>
+
+<h2>Highest Paying Companies</h2>
+<ul>
+  <li><a href="https://www.databricks.com/company/careers">Databricks - Software</a></li>
+  <li><a href="https://www.janestreet.com/join-jane-street/">Jane Street - Finance</a></li>
+  <li><a href="https://stripe.com/jobs">Stripe - Fintech</a></li>
+</ul>
+
+<h2>Top Engineering Organizations</h2>
+<ul>
+  <li><a href="https://www.amazon.jobs/en/">Amazon - Tech</a></li>
+  <li><a href="https://jobs.apple.com/en-us/search">Apple - Tech</a></li>
+  <li><a href="https://www.metacareers.com/">Meta - Tech</a></li>
+  <li><a href="https://jobs.netflix.com/">Netflix - Tech</a></li>
+  <li><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite">Nvidia - Tech</a></li>
+</ul>
+
+<h2>All Companies</h2>
 <ul>
   <li><a href="https://new.abb.com/indian-subcontinent/careers/">ABB - Electronics</a></li>
   <li><a href="https://www.accenture.com/in-en/careers/">Accenture - Consulting</a></li>
